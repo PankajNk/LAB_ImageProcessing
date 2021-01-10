@@ -1,6 +1,8 @@
 # LAB_ImageProcessing
 
 1. Develop a program to display grayscale image using read and write operation.
+![alt text for screen readers](./image/fly2.jpg "Text to show on mouseover")
+
 2. Develop a program to perform linear transformations on an image: Scaling and
 Rotation
 3. Create ‘n’ number of images and read them from the directory and
