@@ -3,9 +3,9 @@
 
 1. Develop a program to display grayscale image using read and write operation.
 
-    Objective is read and display gray image and lastly save the image 
-    See the ImgP_1 for code and better understanding
-    Output 
+    Objective is read and display gray image and lastly save the image <br>
+    See the ImgP_1 for code and better understanding<br>
+    Output <br>
 ![alt text for screen readers](./image/fly2.jpg "Text to show on mouseover")
 
 2. Develop a program to perform linear transformations on an image: Scaling and
