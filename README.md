@@ -23,7 +23,7 @@ Rotation<br>
 **Output**<br>
 Resize<br>
     ![alt text for screen readers](./resultsImg/ip2.1.PNG "Text to show on mouseover") ![alt text for screen readers](./resultsImg/ip2.2.PNG "Text to show on mouseover")<br>
-Rotation
+Rotation<br>
    ![alt text for screen readers](./resultsImg/ip3.PNG "Text to show on mouseover")<br>
    
 ### 3. Create ‘n’ number of images and read them from the directory and
@@ -33,6 +33,7 @@ I used Glob Libray for read the file from directory can use os libray also.<br>
 #### This will all image in folder ,please see the Doc floder
 
 ### 4. Develop a program to convert the color image to gray scale and binary image.
+
 ### 5. Develop a program to convert the given color image to different color spaces.
 ### 6. Develop a program to create an image from 2D array (generate an array of
 random size).
