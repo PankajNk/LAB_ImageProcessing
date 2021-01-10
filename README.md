@@ -31,7 +31,7 @@ Rotation<br>
 perform the operations.
 
 I used Glob Libray for read the file from directory can use os libray also.<br>
-#### This will all image in folder ,please see the Doc floder
+#### This will dispaly all image in folder ,please see the Doc floder
 
 ### 4. Develop a program to convert the color image to gray scale and binary image.
       
