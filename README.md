@@ -19,6 +19,7 @@ Rotation<br>
 **Output**<br>
 Resize<br>
     ![alt text for screen readers](./resultsImg/ip2.1.PNG "Text to show on mouseover")<br>
+    ![alt text for screen readers](./resultsImg/ip2.2.PNG "Text to show on mouseover")<br>
 
 3. Create ‘n’ number of images and read them from the directory and
 perform the operations.
