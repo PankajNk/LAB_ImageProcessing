@@ -7,7 +7,7 @@
     See the ImgP_1 for code and better understanding<br>
     Output <br>
     Orginal Image <br>
-![alt text for screen readers](./image/fly2.png "Text to show on mouseover")
+    ![alt text for screen readers](./image/fly2.jpg "Text to show on mouseover")
 
 Gray Image
 
