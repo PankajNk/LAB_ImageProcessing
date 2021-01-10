@@ -10,7 +10,7 @@
 ![alt text for screen readers](./image/fly2.png "Text to show on mouseover")
 
 Gray Image
-![](./resultImg/ip1.jpg "Text to show on mouseover")
+
 
 2. Develop a program to perform linear transformations on an image: Scaling and
 Rotation
