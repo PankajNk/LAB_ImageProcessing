@@ -14,6 +14,7 @@ Gray Image
 
 2. Develop a program to perform linear transformations on an image: Scaling and
 Rotation
+
 3. Create ‘n’ number of images and read them from the directory and
 perform the operations.
 4. Develop a program to convert the color image to gray scale and binary image.
