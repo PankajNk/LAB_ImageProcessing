@@ -1,5 +1,5 @@
 # LAB_ImageProcessing
-## Getting started with Image Processing ,this are program as part of college Labwork 
+## Getting started with Image Processing ,this program are part of the college Labwork 
 
 
 Images Folder  --> its contains all images used in program ,you can use any image.<br>
