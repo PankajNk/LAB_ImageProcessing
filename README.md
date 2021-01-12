@@ -3,7 +3,7 @@
 
 
 Images Folder  --> its contains all images used in program ,you can use any image.<br>
-ResultsImg ---> You can skip it.<br>
+ResultsImg ---> contains all output or you can skip it :)<br>
 Doc Folder ---> contains all code with excepted output 
 Libray used ---> Opencv2,Pillow,Numpy,Glob
 ### 1. Develop a program to display grayscale image using read and write operation.
@@ -35,19 +35,22 @@ I used Glob Libray for read the file from directory can use os libray also.<br>
 
 ### 4. Develop a program to convert the color image to gray scale and binary image.
       
-      We have done converting to gray ,take the same image and apply the thershold function with parameter src,thershold max and min and cv2.THRESH_BINARY: If pixel intensity is greater than the set threshold, value set to 255, else set to 0 (black).
+      We have done converting to gray ,take the same image and apply the thershold function with parameter src,thershold max and min and 
+      cv2.THRESH_BINARY: If pixel intensity is greater than the set threshold, value set to 255, else set to 0 (black).
 ![alt text for screen readers](./resultsImg/ip5.PNG "Text to show on mouseover")<br>
       
 ### 5. Develop a program to convert the given color image to different color spaces.
-      Color spaces are different types of color modes, used in image processing and signals and system for various purposes. Some of the common color spaces are: RGB.
-      we converting to GRAY,HSV,HLS,YUV.
+      Color spaces are different types of color modes, used in image processing and signals and 
+      system for various purposes. Some of the common color spaces are: 
+      RGB.we converting to GRAY,HSV,HLS,YUV.
       Using the cvtColor () function 
       gray=cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
   ![alt text for screen readers](./resultsImg/ip6.PNG "Text to show on mouseover")<br>
     ![alt text for screen readers](./resultsImg/ip61.PNG "Text to show on mouseover")<br>
      
 ### 6. Develop a program to create an image from 2D array (generate an array of random size).
-     Using numpy to create the array of zeros , list operation to specific the region ,fromarray(array) #convert the image array to Image
+     Using numpy to create the array of zeros , list operation to specific the row or column region,
+     fromarray(array) #convert the image array to Image
    ![alt text for screen readers](./resultsImg/last.PNG "Text to show on mouseover")<br>
      
      
