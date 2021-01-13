@@ -19,8 +19,8 @@ Gray Image<br>
 
 ### 2. Develop a program to perform linear transformations on an image: Scaling and
      Rotation<br>
-       For scaling i used resize() function<br>
-       For Rotation  getRotationMatrix2D() <br>
+       For scaling i used resize() function
+       For Rotation  getRotationMatrix2D() 
 **Output**<br>
 Resize<br>
     ![alt text for screen readers](./resultsImg/ip2.1.PNG "Text to show on mouseover") ![alt text for screen readers](./resultsImg/ip2.2.PNG "Text to show on mouseover")<br>
