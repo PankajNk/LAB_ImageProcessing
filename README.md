@@ -4,7 +4,7 @@
 
 Images Folder  --> its contains all images used in program ,you can use any image.<br>
 ResultsImg ---> contains all output or you can skip it :)<br>
-Doc Folder ---> contains all code with excepted output 
+Doc Folder ---> contains all code with excepted output <br>
 Libray used ---> Opencv2,Pillow,Numpy,Glob
 ### 1. Develop a program to display grayscale image using read and write operation.
 
@@ -17,8 +17,7 @@ Libray used ---> Opencv2,Pillow,Numpy,Glob
 Gray Image<br>
     ![alt text for screen readers](./resultsImg/ip1.PNG "Text to show on mouseover")<br>
 
-### 2. Develop a program to perform linear transformations on an image: Scaling and
-     Rotation<br>
+### 2. Develop a program to perform linear transformations on an image: Scaling and Rotation
        For scaling i used resize() function
        For Rotation  getRotationMatrix2D() 
 **Output**<br>
